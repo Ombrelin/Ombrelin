@@ -1,1 +1,1 @@
-![Metrics](https://github.com/Ombrelin/Ombrelin/blob/main/github-metrics.svg)
+![Metrics](https://github.com/Ombrelin/Ombrelin/blob/master/github-metrics.svg)
