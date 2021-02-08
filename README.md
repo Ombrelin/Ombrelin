@@ -1,1 +1,1 @@
-![Metrics](https://github.com/Ombrelin/Ombrelin/blob/master/github-metrics.svg)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&api_domain=https://stats.arsenelapostolet.fr)](https://github.com/anuraghazra/github-readme-stats)
