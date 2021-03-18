@@ -1,7 +1,7 @@
 # About me
 
-Work-Study Software Engineering Student at EFREI Paris
-Coop Fullstack Software Developer at Edifixio
+- 📚 Work-Study Software Engineering Student at EFREI Paris
+- 💼 Coop Fullstack Software Developer at Edifixio
 
 # Languages
 
