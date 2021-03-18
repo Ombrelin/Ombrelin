@@ -4,4 +4,4 @@
 
 ## Time Elapsed
 
-![time](https://wakapi-stats.thomaslacaze.fr/languages?url=https://stats.arsenelapostolet.fr/api/v1/users/Ombrelin/stats/any)
+![time](https://wakapi-stats.thomaslacaze.fr/api/v1/languages?url=https://stats.arsenelapostolet.fr/api/v1/users/Ombrelin/stats/any)
