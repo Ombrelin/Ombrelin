@@ -1,7 +1,7 @@
 ## About me
 
-- 📚 Work-Study Software Engineering Student at EFREI Paris
-- 💼 Coop Fullstack Software Developer at Edifixio
+- 📚 Technical degree @ IUT Paris Descartes
+- 📚 Work-Study Software & Information Systems Engineering Degree @ EFREI Paris
 
 ## Languages 
 
