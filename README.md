@@ -1,7 +1,8 @@
 ## About me
 
-- 📚 Technical degree @ IUT Paris Descartes
-- 📚 Work-Study Software & Information Systems Engineering Degree @ EFREI Paris
+- 📚 Technical degree @ IUT Paris Descartes (2017-2019)
+- 📚 Work-Study Software & Information Systems Engineering Degree @ EFREI Paris (2019-2022à
+- 💼 Software Engineer @ KDS (2022-now)
 
 ## Languages 
 
