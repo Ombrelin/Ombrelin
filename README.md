@@ -2,7 +2,8 @@
 
 - 📚 Technical degree @ IUT Paris Descartes (2017-2019)
 - 📚 Work-Study Software & Information Systems Engineering Degree @ EFREI Paris (2019-2022)
-- 💼 Software Engineer @ KDS (2022-now)
+- 💼 Software Engineer @ KDS (2022-2024)
+- 💼 Software Engineering @ Enercoop (2024-now)
 - 📐 Teacher @ EFREI Paris (2023-now)
 
 ## Languages 
