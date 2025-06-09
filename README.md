@@ -6,6 +6,4 @@
 - 💼 Software Engineer @ enercoop (2024-now)
 - 📐 Teacher @ EFREI Paris (2023-now)
 
-## Languages 
-
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ombrelin&layout=compact&langs_count=20&theme=dark)
+I've grown tired of Github, and have migrated most of my stuff to [my codeberg profile](https://codeberg.org/ombrelin), find me here for my most recent activity !
